@@ -8,7 +8,7 @@
     "prod": "webpack --config webpack.prod.js"
   },
   "keywords": [],
-  "author": "@vmarcas",
+  "author": "@VictorAlberto87",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.17.8",
